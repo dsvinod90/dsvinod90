@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Vinod Sridhar Dalavai
 
-You can use the [editor on GitHub](https://github.com/dsvinod90/dsvinod90/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a backend web developer and have been developing since 2018. I have primarily worked with Ruby on Rails.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My projects
+1. My Portflio Page - Basically my resume, but online.
+  [![portfolio](https://user-images.githubusercontent.com/26185142/116791150-0d6e7c80-aad6-11eb-89e8-44dc98d3976d.png)](http://vinoddalavai.xyz)
+  
+2. Hypocryte - This is a website where you can find interesting astronomy facts, explore information realted to music of al genres and read my personal blogs on music and tech.
+[![hypocryte](https://user-images.githubusercontent.com/26185142/116791382-7dc9cd80-aad7-11eb-8a12-982632632c34.png)](https://www.hypocryte.monster)
 
-### Markdown
+3. Memory Game - This is a game that I created using vanilla JS, HTML and CSS. If you feel that your brain needs some sharpening, then play this game!
+[![memoryGame](https://user-images.githubusercontent.com/26185142/116791456-28da8700-aad8-11eb-9e21-c70c55a0b8dc.png)](https://shielded-bastion-33293.herokuapp.com/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dsvinod90/dsvinod90/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+4. Java Tutorial - This is a recent repository that I have started where I upload some coding challenges and explain some core java concepts as well with examples.
+[![javaTuts](https://user-images.githubusercontent.com/26185142/116791526-aa321980-aad8-11eb-925a-af0bb47711c3.png)](https://github.com/dsvinod90/java_tuts)
