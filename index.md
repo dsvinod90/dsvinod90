@@ -1,8 +1,16 @@
-## Vinod Sridhar Dalavai
+# Vinod Sridhar Dalavai
 
 I am a backend web developer and have been developing since 2018. I have primarily worked with Ruby on Rails.
 
-### My projects
+## Technologies
+
+|||||
+|----|----|----|----|
+| Ruby | Rails | Java | MySql |
+| Redia | RSpec | Capybara | Git |
+| Unix | JavaScript | HTML | CSS |
+
+## My projects
 1. My Portflio Page - Basically my resume, but online.
   [![portfolio](https://user-images.githubusercontent.com/26185142/116791150-0d6e7c80-aad6-11eb-89e8-44dc98d3976d.png)](http://vinoddalavai.xyz)
   
@@ -14,3 +22,13 @@ I am a backend web developer and have been developing since 2018. I have primari
 
 4. Java Tutorial - This is a recent repository that I have started where I upload some coding challenges and explain some core java concepts as well with examples.
 [![javaTuts](https://user-images.githubusercontent.com/26185142/116791526-aa321980-aad8-11eb-925a-af0bb47711c3.png)](https://github.com/dsvinod90/java_tuts)
+
+## Music
+I love listening to music and it is one of the things that keeps me in equilibrium. I mostly listem to Metal and Rock. However, sometimes I indulge in some India/Alt as well.
+### Here are some of my Spotify playlists that I play frequently:
+| Metal | Work in Peace (ProgRock) | Got Djent? (Spotify suggested) | Alternative 10s (Spotify suggested) |
+|----|----| ---- | ---- |
+| [![Metal](https://user-images.githubusercontent.com/26185142/116792005-c5eaef00-aadb-11eb-9e75-5ddbd0a6224d.png)](https://open.spotify.com/playlist/6YLqFxSHI3h3MnlPpdil7b?si=J9vdNt1kSn2sbVvbstGCCg) | [![workInPeace](https://user-images.githubusercontent.com/26185142/116792082-2f6afd80-aadc-11eb-8a45-0dfe16b245f3.png)](https://open.spotify.com/playlist/2DDoB2u0C6t8d9ahEDAcfv?si=4iEW9b6xRLKEdMMJQ--mNQ) | [![djent](https://user-images.githubusercontent.com/26185142/116792276-3e9e7b00-aadd-11eb-97c8-2e1025b48673.png)](https://open.spotify.com/playlist/37i9dQZF1DX6GRSnGELn7L?si=WUZvK0reSha2b23FBvMj1w) | [![alt](https://user-images.githubusercontent.com/26185142/116792319-7dcccc00-aadd-11eb-9beb-64a984a6f600.png)](https://open.spotify.com/playlist/37i9dQZF1DX873GaRGUmPl?si=fg0lrMsTTMKzjdfuGqycFQ) |
+
+
+
