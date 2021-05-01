@@ -1,6 +1,6 @@
 # Vinod Sridhar Dalavai
 
-I am a backend web developer and have been developing since 2018. I have primarily worked with Ruby on Rails. Recently, I have gained some interest in Cybersecurity. I am learning ethical hacking on my own and it has been going great. I practice on Kali Linux and I hope to make tutorials on that too. I stream some educational content (mostly related to programming) on Twitch, Discord and Youtube. You can find all the channel link at the bottom of the page.
+I am a backend web developer and have been developing since 2018. I have primarily worked with Ruby on Rails. Recently, I have gained some interest in Cybersecurity. I am learning ethical hacking on my own and it has been going great. I practice on Kali Linux and I hope to make tutorials on that too. I stream some educational content (mostly related to programming) on Twitch, Discord and Youtube. You can find all the channel links at the bottom of the page.
 
 Let's move from tech to other things. I love music. In fact, sometimes, music keeps me in equilibrium. I love Metal, Rock and some Indie/Alt. Combine music with coffee/beer and I am already swaying!! Astronomy has always intrigued me and you will mostly find astronomy related videos under my "Recommended" videos in YouTube.
 
