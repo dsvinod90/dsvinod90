@@ -26,5 +26,5 @@ I am a backend web developer and have been developing since 2018. I have primari
 I love listening to music and it is one of the things that keeps me in equilibrium. I mostly listem to Metal and Rock. However, sometimes I indulge in some India/Alt as well.
 ### Here are some of my Spotify playlists that I play frequently:
 | Metal | Work in Peace (ProgRock) | Got Djent? (Spotify suggested) | Alternative 10s (Spotify suggested) |
-|----|----| ---- | ---- |
+|:----:|:----:| :----: | :----: |
 | [![Metal](https://user-images.githubusercontent.com/26185142/116792005-c5eaef00-aadb-11eb-9e75-5ddbd0a6224d.png)](https://open.spotify.com/playlist/6YLqFxSHI3h3MnlPpdil7b?si=J9vdNt1kSn2sbVvbstGCCg) | [![workInPeace](https://user-images.githubusercontent.com/26185142/116792082-2f6afd80-aadc-11eb-8a45-0dfe16b245f3.png)](https://open.spotify.com/playlist/2DDoB2u0C6t8d9ahEDAcfv?si=4iEW9b6xRLKEdMMJQ--mNQ) | [![djent](https://user-images.githubusercontent.com/26185142/116792276-3e9e7b00-aadd-11eb-97c8-2e1025b48673.png)](https://open.spotify.com/playlist/37i9dQZF1DX6GRSnGELn7L?si=WUZvK0reSha2b23FBvMj1w) | [![alt](https://user-images.githubusercontent.com/26185142/116792319-7dcccc00-aadd-11eb-9beb-64a984a6f600.png)](https://open.spotify.com/playlist/37i9dQZF1DX873GaRGUmPl?si=fg0lrMsTTMKzjdfuGqycFQ) |
