@@ -24,6 +24,7 @@ I am a backend web developer and have been developing since 2018. I have primari
 [![memoryGame](https://user-images.githubusercontent.com/26185142/116791456-28da8700-aad8-11eb-9e21-c70c55a0b8dc.png)](https://shielded-bastion-33293.herokuapp.com/)
 
 4. Java Tutorial - This is a recent repository that I have started where I upload some coding challenges and explain some core java concepts as well with examples.
+
 [![javaTuts](https://user-images.githubusercontent.com/26185142/116791526-aa321980-aad8-11eb-925a-af0bb47711c3.png)](https://github.com/dsvinod90/java_tuts)
 
 ## Music
