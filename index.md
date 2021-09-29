@@ -11,7 +11,7 @@ I guess that should give you a fairly good idea about me.
 |||||
 |----|----|----|----|
 | Ruby | Rails | Java | MySql |
-| Redia | RSpec | Capybara | Git |
+| Redis | RSpec | Capybara | Git |
 | Unix | JavaScript | HTML | CSS |
 
 ## My projects
