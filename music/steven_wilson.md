@@ -3,11 +3,11 @@ title: Steven Wilson
 layout: default
 filename: steven_wilson 
 --- 
-[back](/music)
+[back](/dsvinod90/music)
 
 ## Steven Wilson - An Under-rated Prodigy
 
-![Steven Wilson](/pics/steven_wilson.jpeg "Steven Wilson")
+![Steven Wilson](/dsvinod90/pics/steven_wilson.jpeg "Steven Wilson")
 
 Everyone has his/her own happy space and I believe that music has the power to invoke that feeling of being in one’s happy place. For me, that place would be floating into the vastness of space. Being a space fanatic, I have always imagined of drifting into space and seeing the magnificent celestial bodies, the galaxies, the nebulas, the supernovas, the neutron stars etc., There is sense of satisfaction when I think of these things and I go into a state of trance as I ponder about the vastness of our universe.
 
