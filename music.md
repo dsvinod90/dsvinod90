@@ -6,4 +6,4 @@ filename: music
 
 ## Progressive Rock
 
-[Steven Wilson - An under-rated prodigy](/music/steven_wilson)
+[Steven Wilson - An under-rated prodigy](/dsvinod90/music/steven_wilson)
