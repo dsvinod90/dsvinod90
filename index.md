@@ -1,42 +1,17 @@
+---
+title: Home 
+layout: default
+filename: index
+--- 
+
 # Vinod Sridhar Dalavai
 
-I am a backend web developer and have been developing since 2018. I have primarily worked with Ruby on Rails. Recently, I have gained some interest in Cybersecurity. I am learning ethical hacking on my own and it has been going great. I practice on Kali Linux and I hope to make tutorials on that too. I stream some educational content (mostly related to programming) on Twitch, Discord and Youtube. You can find all the channel links at the bottom of the page.
+I am a graduate student of Computer Science @ Rochester Institute of Technology. I used to be software engineer before pursuing my masters degree. I love to code and am passionate about building optimum solutions that are scalable and fault tolerant. I aim to be a successful backend engineer capable of designing and developing large scale distributed back end solutions.
 
-Let's move from tech to other things. I love music. In fact, sometimes, music keeps me in equilibrium. I love Metal, Rock and some Indie/Alt. Combine music with coffee/beer and I am already swaying!! Astronomy has always intrigued me and you will mostly find astronomy related videos under my "Recommended" videos in YouTube.
-
-I guess that should give you a fairly good idea about me.
-
-## Technologies
-
-|||||
-|----|----|----|----|
-| Ruby | Rails | Java | MySql |
-| Redis | RSpec | Capybara | Git |
-| Unix | JavaScript | HTML | CSS |
-
-## My projects
-* My Portflio Page - Basically my resume, but online.
-
-[![portfolio](https://user-images.githubusercontent.com/26185142/116791150-0d6e7c80-aad6-11eb-89e8-44dc98d3976d.png)](http://vinoddalavai.xyz)
-  
-* Hypocryte - This is a website where you can find interesting astronomy facts, explore information realted to music of all genres and read my personal blogs on music and tech.
-
-[![hypocryte](https://user-images.githubusercontent.com/26185142/116791382-7dc9cd80-aad7-11eb-8a12-982632632c34.png)](https://www.hypocryte.monster)
-
-* Memory Game - This is a game that I created using vanilla JS, HTML and CSS. If you feel that your brain needs some sharpening, then play this game!
-
-[![memoryGame](https://user-images.githubusercontent.com/26185142/116791456-28da8700-aad8-11eb-9e21-c70c55a0b8dc.png)](https://shielded-bastion-33293.herokuapp.com/)
-
-* Java Tutorial - This is a recent repository that I have started where I upload some coding challenges and explain some core java concepts as well with examples.
-
-[![javaTuts](https://user-images.githubusercontent.com/26185142/116791526-aa321980-aad8-11eb-925a-af0bb47711c3.png)](https://github.com/dsvinod90/java_tuts)
-
-## Music
-I love listening to music and it is one of the things that keeps me in equilibrium. I mostly listem to Metal and Rock. However, sometimes I indulge in some India/Alt as well.
-### Here are some of my Spotify playlists that I have curated and play frequently:
+### Check out some of my own playlists:
 [![Metal](https://user-images.githubusercontent.com/26185142/116792425-211de100-aade-11eb-9d84-1676dd62142e.png)](https://open.spotify.com/playlist/6YLqFxSHI3h3MnlPpdil7b?si=h_NfO57FR1-WWo3mVsxZLA)
 [![workInPeace](https://user-images.githubusercontent.com/26185142/116792476-6cd08a80-aade-11eb-9953-9246772dc72a.png)](https://open.spotify.com/playlist/2DDoB2u0C6t8d9ahEDAcfv?si=PUDm71RhQ4SbDeawvt-RTQ)
-### Here are some Spotify suggested playlists that I really dig:
+### Some spotify suggestions that are really good:
 [![djent](https://user-images.githubusercontent.com/26185142/116792508-a903eb00-aade-11eb-9e66-c0b5ab2a0b96.png)](https://open.spotify.com/playlist/37i9dQZF1DX6GRSnGELn7L?si=ITjssFaKRcucpXFHAHY76w)
 [![alt](https://user-images.githubusercontent.com/26185142/116792531-cdf85e00-aade-11eb-9894-018fd636eb1a.png)](https://open.spotify.com/playlist/37i9dQZF1DX873GaRGUmPl?si=MPpwBE9jQoKdddHNKOYGUQ)
 [![metalcore](https://user-images.githubusercontent.com/26185142/116792939-5e37a280-aae1-11eb-8cf3-68d872e725b0.png)](https://open.spotify.com/playlist/37i9dQZF1DX6P51sFpSo2r?si=6BYWam0sTzm6wIiKHwIVqw)
