@@ -15,13 +15,13 @@ Besides love for technology, I enjoy cooking. I like to try out new recipes quit
 
 <div style="float: right">
 # Resume
-[![Resume](/pics/resume.pdf)](/pics/resume.pdf)
+[![Resume](/pics/resume.pdf)](/pics/resume.pdf){:target="_blank"}
 </div>
 
 <div style="float: left; margin: 0; position: relative;top: 50%; -ms-transform: translateY(50%); transform: translateY(50%);">
-[![icons8-linkedin-64](https://user-images.githubusercontent.com/26185142/116793418-4ca3ca00-aae4-11eb-9e2e-c400e186f71c.png)](www.linkedin.com/in/vinoddalavai) <br /><br />
-[![icons8-facebook-64](https://user-images.githubusercontent.com/26185142/116793426-53cad800-aae4-11eb-8fb5-f1f723298462.png)](https://www.facebook.com/vinod0207/) <br /><br />
-[![icons8-discord-64](https://user-images.githubusercontent.com/26185142/116793455-76f58780-aae4-11eb-9e90-1ef6475836ab.png)](https://discord.gg/bxyKASKPQD) <br /><br />
-[![icons8-github-64](https://user-images.githubusercontent.com/26185142/116793610-4bbf6800-aae5-11eb-869e-69cee91ba505.png)](https://github.com/dsvinod90) <br /><br />
-[![icons8-instagram-64](https://user-images.githubusercontent.com/26185142/116793641-84f7d800-aae5-11eb-997b-a55497eefd0a.png)](https://www.instagram.com/lunatic_soul_2790/)
+[![icons8-linkedin-64](https://user-images.githubusercontent.com/26185142/116793418-4ca3ca00-aae4-11eb-9e2e-c400e186f71c.png)](https://www.linkedin.com/in/vinoddalavai){:target="_blank"} <br /><br />
+[![icons8-facebook-64](https://user-images.githubusercontent.com/26185142/116793426-53cad800-aae4-11eb-8fb5-f1f723298462.png)](https://www.facebook.com/vinod0207/){:target="_blank"} <br /><br />
+[![icons8-discord-64](https://user-images.githubusercontent.com/26185142/116793455-76f58780-aae4-11eb-9e90-1ef6475836ab.png)](https://discord.gg/bxyKASKPQD){:target="_blank"} <br /><br />
+[![icons8-github-64](https://user-images.githubusercontent.com/26185142/116793610-4bbf6800-aae5-11eb-869e-69cee91ba505.png)](https://github.com/dsvinod90){:target="_blank"} <br /><br />
+[![icons8-instagram-64](https://user-images.githubusercontent.com/26185142/116793641-84f7d800-aae5-11eb-997b-a55497eefd0a.png)](https://www.instagram.com/lunatic_soul_2790/){:target="_blank"}
 </div>

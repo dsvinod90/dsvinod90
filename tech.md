@@ -22,4 +22,4 @@ filename: tech
 * [Zookeeper](/dsvinod90/research_papers/zookeeper)
 <br /> <br />
 ## My Presentation on RDD:
-[![RDD Presentation](/dsvinod90/research_papers/rdd_presentation_pdf.pdf)](/dsvinod90/research_papers/rdd_presentation_pdf.pdf)
+[![RDD Presentation](/dsvinod90/research_papers/rdd_presentation_pdf.pdf)](/dsvinod90/research_papers/rdd_presentation_pdf.pdf){:target="_blank"}
