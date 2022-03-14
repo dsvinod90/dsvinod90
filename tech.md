@@ -7,7 +7,7 @@ filename: tech
 ## Leetcode Strategies
 [Leetcode#303 - Range Sum Query](/dsvinod90/leetcode/303)
 <br /> <br />
-## Summary of Famous Research Papers on Distributed Systems:
+## Summaries of some Distribute-Systems Research Papers:
 * [Big Table](/dsvinod90/research_papers/big_table)
 * [Chubby](/dsvinod90/research_papers/chubby)
 * [Dremel](/dsvinod90/research_papers/dremel)
@@ -16,7 +16,9 @@ filename: tech
 * [Megastore](/dsvinod90/research_papers/megastore)
 * [Naiad](/dsvinod90/research_papers/naiad)
 * [No Compromises](/dsvinod90/research_papers/no_compromises)
+* [Pastry](/dsvinod90/research_papers/pastry)
 * [Resilient Distributed Datasets](/dsvinod90/research_papers/rdd)
+* [Spanner](/dsvinod90/research_papers/spanner)
 * [Zookeeper](/dsvinod90/research_papers/zookeeper)
 <br /> <br />
 ## My Presentation on RDD:
