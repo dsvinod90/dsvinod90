@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 🤔 I’m looking for help with **Summer 2022 internships**
 - 💬 Ask me about **Backend Engineering, APIs, OOP concepts, MVC, Design principles, astronomy, rock and metal etc.**
-- 📫 How to reach me: **dsvinod.1990@gmail.com**
+- 📫 How to reach me: **dsvinod.1990@protonmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Apparently, the universe is expanding faster than the speed of light!**

@@ -3,7 +3,14 @@ title: Home
 layout: default
 filename: index
 --- 
-<img style="float: left; margin-right: 40px" src="pics/my_pic.jpeg" width="360" height="490">
+<div style="float: left; overflow: hidden;">
+<a href="/dsvinod90/pics/resume.pdf"><object style="margin-right: 30px;" data="/dsvinod90/pics/resume.pdf" type="application/pdf" width="330" height="300"></object></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vinoddalavai" data-version="v1">
+<a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vinoddalavai?trk=profile-badge"></a>
+</div>
+</div>
+              
+<div style="overflow: hidden;">
 
 # Hello World!
 
@@ -12,16 +19,11 @@ I am a graduate student of Computer Science @ Rochester Institute of Technology,
 I am currently seeking internship opportunities for Summer 2022. I would like to work in a reputed organization where I would be part of an enthusiastic team of engineers working in tandem to build optimum, large-scale, fault tolerant systems.
 
 Besides love for technology, I enjoy cooking. I like to try out new recipes quite frequently. I am passionate about music and enjoy all kinds of Rock and Metal. As with any stereotypical developer, I too love coffee. This is a picture from Cheesecake Factory in <span style="color:lightgreen">Rochester, New York</span>. It is definitely one of the best places for desserts.
-
-<div style="float: right">
-# Resume
-[![Resume](/pics/resume.pdf)](/pics/resume.pdf){:target="_blank"}
 </div>
-
-<div style="float: left; margin: 0; position: relative;top: 50%; -ms-transform: translateY(50%); transform: translateY(50%);">
-[![icons8-linkedin-64](https://user-images.githubusercontent.com/26185142/116793418-4ca3ca00-aae4-11eb-9e2e-c400e186f71c.png)](https://www.linkedin.com/in/vinoddalavai){:target="_blank"} <br /><br />
-[![icons8-facebook-64](https://user-images.githubusercontent.com/26185142/116793426-53cad800-aae4-11eb-8fb5-f1f723298462.png)](https://www.facebook.com/vinod0207/){:target="_blank"} <br /><br />
-[![icons8-discord-64](https://user-images.githubusercontent.com/26185142/116793455-76f58780-aae4-11eb-9e90-1ef6475836ab.png)](https://discord.gg/bxyKASKPQD){:target="_blank"} <br /><br />
-[![icons8-github-64](https://user-images.githubusercontent.com/26185142/116793610-4bbf6800-aae5-11eb-869e-69cee91ba505.png)](https://github.com/dsvinod90){:target="_blank"} <br /><br />
-[![icons8-instagram-64](https://user-images.githubusercontent.com/26185142/116793641-84f7d800-aae5-11eb-997b-a55497eefd0a.png)](https://www.instagram.com/lunatic_soul_2790/){:target="_blank"}
+<br />
+<div align="center">
+[![icons8-facebook-64](https://user-images.githubusercontent.com/26185142/116793426-53cad800-aae4-11eb-8fb5-f1f723298462.png)](https://www.facebook.com/vinod0207/){:target="_blank"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![icons8-discord-64](https://user-images.githubusercontent.com/26185142/116793455-76f58780-aae4-11eb-9e90-1ef6475836ab.png)](https://discord.gg/bxyKASKPQD){:target="_blank"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![icons8-instagram-64](https://user-images.githubusercontent.com/26185142/116793641-84f7d800-aae5-11eb-997b-a55497eefd0a.png)](https://www.instagram.com/lunatic_soul_2790/){:target="_blank"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![icons8-linkedin-64](https://user-images.githubusercontent.com/26185142/116793418-4ca3ca00-aae4-11eb-9e2e-c400e186f71c.png)](https://www.linkedin.com/in/vinoddalavai){:target="_blank"} 
 </div>
