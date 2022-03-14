@@ -3,7 +3,7 @@ title: Home
 layout: default
 filename: index
 --- 
-<img style="float: left; margin-right: 40px" src="/dsvinod0/pics/my_pic.jpeg" width="360" height="490">
+<img style="float: left; margin-right: 40px" src="dsvinod0/pics/my_pic.jpeg" width="360" height="490">
 
 # Hello World!
 
