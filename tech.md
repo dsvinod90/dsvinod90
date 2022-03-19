@@ -6,6 +6,7 @@ filename: tech
 
 ## Leetcode Strategies
 * [Leetcode#217 - Contains Duplicate](/dsvinod90/leetcode/217)
+* [Leetcode#268 - Missing Number](/dsvinod90/leetcode/268)
 * [Leetcode#303 - Range Sum Query](/dsvinod90/leetcode/303)
 
 <br /> <br />
