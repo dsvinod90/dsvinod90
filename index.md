@@ -3,28 +3,42 @@ title: Home
 layout: default
 filename: index
 --- 
-<div style="float: left; overflow: hidden;">
-<a href="/dsvinod90/pics/resume.pdf"><object style="margin-right: 30px;" data="/dsvinod90/pics/resume.pdf" type="application/pdf" width="330" height="300"></object></a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vinoddalavai" data-version="v1">
+<div style="float: left;">
+<a href="/dsvinod90/pics/resume.pdf"><object style="margin-right: 30px;display:inline-block;vertical-align:middle;float:left;position:relative" data="/pics/resume.pdf" type="application/pdf" width="600" height="280" style="border-radius:1.5%"></object></a>
+</div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vinoddalavai" data-version="v1" style="display:inline-block;vertical-align:middle;float:right;position:relative">
 <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vinoddalavai?trk=profile-badge"></a>
 </div>
-</div>
-              
-<div style="overflow: hidden;">
 
-# Hello World!
 
-I am a graduate student of Computer Science @ Rochester Institute of Technology, Rochester, NY. I used to be software engineer before pursuing my masters degree. I love to code and am passionate about building optimum solutions that are scalable and fault tolerant. I aim to be a successful backend engineer capable of designing and developing large scale distributed back end solutions.
+<div style="float: right;">
 
-I am currently seeking internship opportunities for Fall 2022/Spring 2023. I would like to work in a reputed organization where I would be part of an enthusiastic team of engineers working in tandem to build optimum, large-scale, fault tolerant systems.
+<h1 align="center"> hello_world </h1>
+<hr>
+<p align="justified">
+I am a student at Rochester Institute of Technology pursuing **MS in Computer Science**. I love building things and I do it with a passion. My forte is backend engineering with a newfound interest in *Computer* Networks and *Distributed Systems*. I also love to solve coding challenges and as a result I participate in many competitive coding contests. I believe that one day I can make it to the top of the leaderboards of popular coding challenges.
+</p>
+<p>
+I have been a web developer for four years prior to pursuing my graduate program. I expect to graduate by **Winter 2023**. My goal after graduating is to work for a renowned orgainzation as a software engineer and be responsible for designing and developing large scale, fault-tolerant, scalable, backend solutions. 
+</p>
+<p>
+As of now, I am seeking **Software Developer Internship/Co-op Opportunities** for **Fall 2022/Spring 2023**.
+</p>
+<p>
+Besides love for technology, I enjoy cooking. I like to try out new recipes quite frequently. I am passionate about music and enjoy all kinds of Rock and Metal. As with any stereotypical developer, I too love coffee.
+</p>
+<br/>
+<h1 align="center"> skills </h1>
+<hr>
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| • Java | • Python | • Ruby | • Javascript | • MySQL |
+| • PostgreSQL | • MongoDB | • Database design | • Unix | • Spring Boot |
+| • NodeJS | • Rails | • Django | • CSS | • HTML5 |
+| • Git | • Data Structures | • Algorithms | • SDLC | • Agile Methodology |
+| • Object Oriented Design| • API Design | • Solid Principles | • Distributed Systems | • Computer Networks |
 
-Besides love for technology, I enjoy cooking. I like to try out new recipes quite frequently. I am passionate about music and enjoy all kinds of Rock and Metal. As with any stereotypical developer, I too love coffee. This is a picture from Cheesecake Factory in <span style="color:lightgreen">Rochester, New York</span>. It is definitely one of the best places for desserts.
-</div>
-<br />
-<div align="center">
-[![icons8-facebook-64](https://user-images.githubusercontent.com/26185142/116793426-53cad800-aae4-11eb-8fb5-f1f723298462.png)](https://www.facebook.com/vinod0207/){:target="_blank"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![icons8-discord-64](https://user-images.githubusercontent.com/26185142/116793455-76f58780-aae4-11eb-9e90-1ef6475836ab.png)](https://discord.gg/bxyKASKPQD){:target="_blank"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![icons8-instagram-64](https://user-images.githubusercontent.com/26185142/116793641-84f7d800-aae5-11eb-997b-a55497eefd0a.png)](https://www.instagram.com/lunatic_soul_2790/){:target="_blank"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![icons8-linkedin-64](https://user-images.githubusercontent.com/26185142/116793418-4ca3ca00-aae4-11eb-9e2e-c400e186f71c.png)](https://www.linkedin.com/in/vinoddalavai){:target="_blank"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![icons8-markdown-64](https://img.icons8.com/dusk/64/000000/markdown.png)](https://hackmd.io/@lunaticSoul){:target="_blank"} 
+<hr>
+<br/>
+<h5 style="text-align: center;margin: 0px">Email - <a href= "mailto:dsvinod.1990@gmail.com">dsvinod.1990@gmail.com</a></h5>
+<br/>
 </div>
