@@ -4,7 +4,7 @@ layout: default
 filename: index
 --- 
 <div style="float: left;">
-<a href="/dsvinod90/pics/resume.pdf"><object style="margin-right: 30px;display:inline-block;vertical-align:middle;float:left;position:relative" data="/pics/resume.pdf" type="application/pdf" width="600" height="280" style="border-radius:1.5%"></object></a>
+<a href="/dsvinod90/pics/resume.pdf"><object style="margin-right: 30px;display:inline-block;vertical-align:middle;float:left;position:relative" data="/dsvinod90/pics/resume.pdf" type="application/pdf" width="600" height="280" style="border-radius:1.5%"></object></a>
 </div>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vinoddalavai" data-version="v1" style="display:inline-block;vertical-align:middle;float:right;position:relative">
 <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vinoddalavai?trk=profile-badge"></a>
