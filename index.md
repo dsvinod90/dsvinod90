@@ -16,7 +16,7 @@ filename: index
 
 I am a graduate student of Computer Science @ Rochester Institute of Technology, Rochester, NY. I used to be software engineer before pursuing my masters degree. I love to code and am passionate about building optimum solutions that are scalable and fault tolerant. I aim to be a successful backend engineer capable of designing and developing large scale distributed back end solutions.
 
-I am currently seeking internship opportunities for Summer 2022. I would like to work in a reputed organization where I would be part of an enthusiastic team of engineers working in tandem to build optimum, large-scale, fault tolerant systems.
+I am currently seeking internship opportunities for Fall 2022/Spring 2023. I would like to work in a reputed organization where I would be part of an enthusiastic team of engineers working in tandem to build optimum, large-scale, fault tolerant systems.
 
 Besides love for technology, I enjoy cooking. I like to try out new recipes quite frequently. I am passionate about music and enjoy all kinds of Rock and Metal. As with any stereotypical developer, I too love coffee. This is a picture from Cheesecake Factory in <span style="color:lightgreen">Rochester, New York</span>. It is definitely one of the best places for desserts.
 </div>

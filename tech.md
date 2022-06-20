@@ -3,13 +3,6 @@ title: Tech
 layout: default
 filename: tech 
 --- 
-
-## Leetcode Strategies
-* [Leetcode#217 - Contains Duplicate](/dsvinod90/leetcode/217)
-* [Leetcode#268 - Missing Number](/dsvinod90/leetcode/268)
-* [Leetcode#303 - Range Sum Query](/dsvinod90/leetcode/303)
-
-<br /> <br />
 ## Summaries of some Distribute-Systems Research Papers:
 * [Big Table](/dsvinod90/research_papers/big_table)
 * [Chubby](/dsvinod90/research_papers/chubby)
