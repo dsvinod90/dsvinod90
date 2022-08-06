@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **improving data structures and algorithms**
 - 🌱 I’m currently learning **Networks, Algorithms and Distributed Systems**
 - 👯 I’m looking to collaborate on **Open Source projects**
-- 🤔 I’m looking for help with **Fall 2022/Spring 2023 internships**
+- 🤔 I’m looking for help with **Summer 2023 internships**
 - 💬 Ask me about **Backend Engineering, APIs, OOP concepts, MVC, Design principles, astronomy, rock and metal etc.**
 - 📫 How to reach me: **dsvinod.1990@protonmail.com**
 - 😄 Pronouns: **he/him**
