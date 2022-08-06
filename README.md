@@ -2,6 +2,8 @@
 
 **dsvinod90/dsvinod90** is my blog page where I only talk about tech and music.
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dsvinod90&theme=radical&show_icons=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **improving data structures and algorithms**
