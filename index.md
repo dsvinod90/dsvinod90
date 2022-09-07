@@ -22,7 +22,7 @@ I am a student at Rochester Institute of Technology pursuing **MS in Computer Sc
 I have been a web developer for four years prior to pursuing my graduate program. I expect to graduate by **Winter 2023**. My goal after graduating is to work for a renowned orgainzation as a software engineer and be responsible for designing and developing large scale, fault-tolerant, scalable, backend solutions. 
 </p>
 <p>
-As of now, I am seeking **Software Developer Internship/Co-op Opportunities** for **Fall 2022/Spring 2023**.
+As of now, I am seeking **Software Developer Internship/Co-op Opportunities** for **Spring/Summer 2023**.
 </p>
 <p>
 Besides love for technology, I enjoy cooking. I like to try out new recipes quite frequently. I am passionate about music and enjoy all kinds of Rock and Metal. As with any stereotypical developer, I too love coffee.
