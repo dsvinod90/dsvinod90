@@ -28,9 +28,10 @@ As of now, I am seeking **Software Developer Internship/Co-op Opportunities** fo
 <p>
 Besides love for technology, I enjoy cooking. I like to try out new recipes quite frequently. I am passionate about music and enjoy all kinds of Rock and Metal. As with any stereotypical developer, I too love coffee.
 </p>
-<hr>
+<br/>
 
 <h1 align="center"> summary_and_skills </h1>
+<hr>
 🔭 I’m currently working on **improving data structures and algorithms**
 <br/>
 🌱 I’m currently learning **System Design and Spring Boot Framework**
