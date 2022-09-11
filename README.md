@@ -51,7 +51,7 @@
 
 ## About me:
 - 🔭 I’m currently working on **improving data structures and algorithms**
-- 🌱 I’m currently learning **Networks, Algorithms and Distributed Systems**
+- 🌱 I’m currently learning **System Design and Spring Boot Framework**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 🤔 I’m looking for help with **Summer 2023 internships**
 - 💬 Ask me about **Backend Engineering, APIs, OOP concepts, MVC, Design principles, astronomy, rock and metal etc.**
