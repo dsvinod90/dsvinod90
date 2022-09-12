@@ -3,7 +3,10 @@ title: Home
 layout: default
 filename: index
 --- 
+<img src="https://ghchart.rshah.org/b11540/dsvinod90" alt="My Github chart" style="display: block; margin-right: auto; margin-left: auto;" width="780" height="120"/>
+<br/><br/>
 <img style="display: block; margin-right: auto; margin-left: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=dsvinod90&theme=radical&show_icons=true"/>
+<br/><br/>
 <div style="float: left;">
 <a href="/dsvinod90/pics/resume.pdf"><object style="margin-right: 30px;display:inline-block;vertical-align:middle;float:left;position:relative" data="/dsvinod90/pics/resume.pdf" type="application/pdf" width="600" height="280" style="border-radius:1.5%"></object></a>
 </div>
