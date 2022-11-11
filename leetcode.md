@@ -5,6 +5,16 @@ filename: leetcode
 --- 
 ## Leetcode Solutions
 
-Spreadsheet of top LeetCode questions with links to solutions
+### Two Pointer
+1. <a style="text-decoration: none; color: seagreen;" href="/dsvinod90/leetcode/valid_palindrome">Valid Palindrome</a>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9h12muhuReKm4FcTIHpmdCOresON5-BeWhe2PEF-jhu05ToLh6Wc9zMjKUD0aAnFjTwETxYpID3oK/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="text-align: center; height: 450px; width: 90%"></iframe>
+<hr>
+
+### Sliding Window
+1. <a style="text-decoration: none; color: seagreen;" href="/dsvinod90/leetcode/best_time_to_buy_and_sell_stocks">Best Time to Buy and Sell Stocks</a>
+
+2. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/longest_substring_without_repeating_characters">Longest Substring Without Repeating Characters</a>
+
+3. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/longest_repeating_character_replacement">Longest Repeating Character Replacement</a>
+
+4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/permutation_in_string">Permutation in String</a>
