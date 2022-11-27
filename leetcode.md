@@ -8,7 +8,7 @@ filename: leetcode
 ## Arrays and Hashing
 1. <a style="text-decoration: none; color: seagreen;" href="/dsvinod90/leetcode/contains_duplicate">Contains Duplicate</a>
 
-2. <a style="text-decoration: none; color: seagreen;" href="/dsvinod/90leetcode/valid_anagram">Valid Anagram</a>
+2. <a style="text-decoration: none; color: seagreen;" href="/dsvinod90/leetcode/valid_anagram">Valid Anagram</a>
 
 <hr>
 
