@@ -10,6 +10,18 @@ filename: leetcode
 
 2. <a style="text-decoration: none; color: seagreen;" href="/dsvinod90/leetcode/valid_anagram">Valid Anagram</a>
 
+3. <a style="text-decoration: none; color: seagreen;" href="/dsvinod90/leetcode/two_sum">Two Sum</a>
+
+4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/group_anagrams">Group Anagrams</a>
+
+5. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/top_k_frequent_elements">Top K Frequent Elements</a>
+
+6. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/product_of_array_except_self">Product of Array Except Self</a>
+
+7. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/valid_sudoku">Valid Sudoku</a>
+
+8. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/longest_consecutive_sequence">Longest Consecutive Sequence</a>
+
 <hr>
 
 ## Two Pointer
