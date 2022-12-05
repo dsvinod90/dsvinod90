@@ -3,43 +3,62 @@ title: Leetcode
 layout: default
 filename: leetcode
 --- 
-# Leetcode Solutions
+<h1 style="text-align: center;">Leetcode Solutions</h1>
 
-## Arrays and Hashing
-1. <a style="text-decoration: none; color: seagreen;" href="/dsvinod90/leetcode/contains_duplicate">Contains Duplicate</a>
+<h2 style="color: lightblue; text-align: center;">Arrays and Hashing</h2>
 
-2. <a style="text-decoration: none; color: seagreen;" href="/dsvinod90/leetcode/valid_anagram">Valid Anagram</a>
+1.  <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/contains_duplicate">Contains Duplicate</a><span style="color: gray;"> [ LC-217 | Easy ]</span>
 
-3. <a style="text-decoration: none; color: seagreen;" href="/dsvinod90/leetcode/two_sum">Two Sum</a>
+2. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/valid_anagram">Valid Anagram</a><span style="color: gray;"> [ LC-242 | Easy ]</span>
 
-4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/group_anagrams">Group Anagrams</a>
+3. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/two_sum">Two Sum</a><span style="color: gray;"> [ LC-1 | Easy ]</span>
 
-5. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/top_k_frequent_elements">Top K Frequent Elements</a>
+4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/group_anagrams">Group Anagrams</a><span style="color: gray;"> [ LC-49 | Medium ]</span>
 
-6. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/product_of_array_except_self">Product of Array Except Self</a>
+5. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/top_k_frequent_elements">Top K Frequent Elements</a><span style="color: gray;"> [ LC-347 | Medium ]</span>
 
-7. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/valid_sudoku">Valid Sudoku</a>
+6. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/product_of_array_except_self">Product of Array Except Self</a><span style="color: gray;"> [ LC-238 | Medium ]</span>
 
-8. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/longest_consecutive_sequence">Longest Consecutive Sequence</a>
+7. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/valid_sudoku">Valid Sudoku</a><span style="color: gray;"> [ LC-36 | Medium ]</span>
 
-<hr>
-
-## Two Pointer
-1. <a style="text-decoration: none; color: seagreen;" href="/dsvinod90/leetcode/valid_palindrome">Valid Palindrome</a>
-
-2. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/two_sum_ii">Two Sum II - Input Array is Sorted</a>
-
-3. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/three_sum">Three Sum</a>
-
-3. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/container_with_most_water">Container With Most Water</a>
+8. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/longest_consecutive_sequence">Longest Consecutive Sequence</a><span style="color: gray;"> [ LC-128 | Medium ]</span>
 
 <hr>
 
-## Sliding Window
-1. <a style="text-decoration: none; color: seagreen;" href="/dsvinod90/leetcode/best_time_to_buy_and_sell_stocks">Best Time to Buy and Sell Stocks</a>
+<h2 style="color: lightblue; text-align: center;">Two Pointer</h2>
 
-2. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/longest_substring_without_repeating_characters">Longest Substring Without Repeating Characters</a>
+1. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/valid_palindrome">Valid Palindrome</a><span style="color: gray;"> [ LC-125 | Easy ]</span>
 
-3. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/longest_repeating_character_replacement">Longest Repeating Character Replacement</a>
+2. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/two_sum_ii">Two Sum II - Input Array is Sorted</a><span style="color: gray;"> [ LC-167 | Medium ]</span>
 
-4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/permutation_in_string">Permutation in String</a>
+3. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/three_sum">Three Sum</a><span style="color: gray;"> [ LC-15 | Medium ]</span>
+
+4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/container_with_most_water">Container With Most Water</a><span style="color: gray;"> [ LC-11 | Medium ]</span>
+
+<hr>
+
+<h2 style="color: lightblue; text-align: center;">Sliding Window</h2>
+
+1. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/best_time_to_buy_and_sell_stocks">Best Time to Buy and Sell Stocks</a><span style="color: gray;"> [ LC-121 | Easy ]</span>
+
+2. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/longest_substring_without_repeating_characters">Longest Substring Without Repeating Characters</a><span style="color: gray;"> [ LC-3 | Medium ]</span>
+
+3. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/longest_repeating_character_replacement">Longest Repeating Character Replacement</a><span style="color: gray;"> [ LC-424 | Medium ]</span>
+
+4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/permutation_in_string">Permutation in String</a><span style="color: gray;"> [ LC-567 | Medium ]</span>
+
+<hr>
+
+<h2 style="color: lightblue; text-align: center;">Stack</h2>
+
+1. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/valid_parentheses">Valid Parentheses</a><span style="color: gray;"> [ LC-20 | Easy ]</span>
+
+2. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/min_stack">Min Stack</a><span style="color: gray;"> [ LC-155 | Medium ]</span>
+
+3. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/reverse_polish_notation">Evaluate Reverse Polish Notation</a><span style="color: gray;"> [ LC-150 | Medium ]</span>
+
+4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/generate_parentheses">Generate Parentheses</a><span style="color: gray;"> [ LC-22 | Medium ]</span>
+
+5. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/daily_temperatures">Daily Temperatures</a><span style="color: gray;"> [ LC-739 | Medium ]</span>
+
+6. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/car_fleet">Car Fleet</a><span style="color: gray;"> [ LC-853 | Medium ]</span>
