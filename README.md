@@ -2,8 +2,11 @@
 <img src="https://user-images.githubusercontent.com/26185142/183267612-389e603d-202f-454a-9162-359c40f0ff3c.jpg" alt="banner">
 </p>
 
-## My Github Stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dsvinod90&theme=radical&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dsvinod90&theme=radical&show_icons=true" alt="My Github Stats">
+</p>
+
+<hr>
 
 ## Tools and Technologies:
 ### Languages:
@@ -50,6 +53,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+<hr>
+
 ## About me:
 - 🔭 I’m currently working on **improving data structures and algorithms**
 - 🌱 I’m currently learning **System Design and Spring Boot Framework**
@@ -58,6 +63,8 @@
 - 💬 Ask me about **Backend Engineering, APIs, OOP concepts, MVC, Design principles, astronomy, rock and metal etc.**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Apparently, the universe is expanding faster than the speed of light!**
+
+<hr>
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinoddalavai)
