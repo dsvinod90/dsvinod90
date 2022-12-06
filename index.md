@@ -3,8 +3,6 @@ title: Home
 layout: default
 filename: index
 --- 
-[![Vinod's github activity graph](https://activity-graph.herokuapp.com/graph?username=dsvinod90&theme=github)](https://github.com/dsvinod90/github-readme-activity-graph)
-<br/><br/>
 <img src="https://ghchart.rshah.org/b11540/dsvinod90" alt="My Github chart" style="display: block; margin-right: auto; margin-left: auto;" width="780" height="120"/>
 <br/>
 <img style="display: block; margin-right: auto; margin-left: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=dsvinod90&theme=radical&show_icons=true"/>
