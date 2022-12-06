@@ -62,3 +62,17 @@ filename: leetcode
 5. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/daily_temperatures">Daily Temperatures</a><span style="color: gray;"> [ LC-739 | Medium ]</span>
 
 6. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/car_fleet">Car Fleet</a><span style="color: gray;"> [ LC-853 | Medium ]</span>
+
+<hr>
+
+<h2 style="color: lightblue; text-align: center;">Binary Search</h2>
+
+1. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/binary_search">Binary Search</a><span style="color: gray;"> [ LC-704 | Easy ]</span>
+
+2. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/search_2d_matrix">Search 2D Matrix</a><span style="color: gray;"> [ LC-74 | Medium ]</span>
+
+3. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/koko_eating_bananas">Koko Eating Bananas</a><span style="color: gray;"> [ LC-875 | Medium ]</span>
+
+4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/search_in_rotated_sorted_array">Search In Rotated Sorted Array</a><span style="color: gray;"> [ LC-33 | Medium ]</span>
+
+5. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/find_minimum_in_rotated_sorted_array">Find Minimum In Rotated Sorted Array</a><span style="color: gray;"> [ LC-153 | Medium ]</span>
