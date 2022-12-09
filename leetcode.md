@@ -76,3 +76,11 @@ filename: leetcode
 4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/search_in_rotated_sorted_array">Search In Rotated Sorted Array</a><span style="color: gray;"> [ LC-33 | Medium ]</span>
 
 5. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/find_minimum_in_rotated_sorted_array">Find Minimum In Rotated Sorted Array</a><span style="color: gray;"> [ LC-153 | Medium ]</span>
+
+<hr>
+
+<h2 style="color: lightblue; text-align: center;">Linked List</h2>
+
+1. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/reverse_linked_list">Reverse Linked List</a><span style="color: gray;"> [ LC-206 | Easy ]</span>
+
+2. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/merge_two_sorted_lists">Merge Two Sorted Lists</a><span style="color: gray;"> [ LC-21 | Easy ]</span>
