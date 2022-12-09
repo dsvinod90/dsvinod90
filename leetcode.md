@@ -84,3 +84,9 @@ filename: leetcode
 1. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/reverse_linked_list">Reverse Linked List</a><span style="color: gray;"> [ LC-206 | Easy ]</span>
 
 2. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/merge_two_sorted_lists">Merge Two Sorted Lists</a><span style="color: gray;"> [ LC-21 | Easy ]</span>
+
+3. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/reorder_list">Reorder List</a><span style="color: gray;"> [ LC-143 | Medium ]</span>
+
+4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/remove_nth_node_from_end_of_list">Remove Nth Node From End of List</a><span style="color: gray;"> [ LC-19 | Medium ]</span>
+
+5. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/copy_list_with_random_pointer">Copy List With Random Pointer</a><span style="color: gray;"> [ LC-138 | Medium ]</span>
