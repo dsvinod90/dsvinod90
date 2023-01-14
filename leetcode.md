@@ -90,3 +90,9 @@ filename: leetcode
 4. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/remove_nth_node_from_end_of_list">Remove Nth Node From End of List</a><span style="color: gray;"> [ LC-19 | Medium ]</span>
 
 5. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/copy_list_with_random_pointer">Copy List With Random Pointer</a><span style="color: gray;"> [ LC-138 | Medium ]</span>
+
+6. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/add_two_numbers">Add Two Numbers</a><span style="color: gray;"> [ LC-2 | Medium ]</span>
+
+7. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/linked_list_cycle">Linked List Cycle</a><span style="color: gray;"> [ LC-141 | Easy ]</span>
+
+8. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/find_duplicate_number">Find The Duplicate Number</a><span style="color: gray;"> [ LC-287 | Medium ]</span>
