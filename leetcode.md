@@ -96,3 +96,5 @@ filename: leetcode
 7. <a style="text-decoration: none; color: lightgreen;" href="/dsvinod90/leetcode/linked_list_cycle">Linked List Cycle</a><span style="color: gray;"> [ LC-141 | Easy ]</span>
 
 8. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/find_duplicate_number">Find The Duplicate Number</a><span style="color: gray;"> [ LC-287 | Medium ]</span>
+
+9. <a style="text-decoration: none; color: yellow;" href="/dsvinod90/leetcode/lru_cache">LRU Cache</a><span style="color: gray;"> [ LC-146 | Medium ]</span>
