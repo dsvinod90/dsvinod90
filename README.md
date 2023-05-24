@@ -59,7 +59,7 @@
 - 🔭 I’m currently working on **improving data structures and algorithms**
 - 🌱 I’m currently learning **System Design and Spring Boot Framework**
 - 👯 I’m looking to collaborate on **Open Source projects**
-- 🤔 I’m looking for help with **Summer 2023 internships**
+- 🤔 I’m looking for help with **2024 Full time job opportunities**
 - 💬 Ask me about **Backend Engineering, APIs, OOP concepts, MVC, Design principles, astronomy, rock and metal etc.**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Apparently, the universe is expanding faster than the speed of light!**
