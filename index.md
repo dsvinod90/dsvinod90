@@ -41,7 +41,7 @@ Besides love for technology, I enjoy cooking. I like to try out new recipes quit
 <br/>
 👯 I’m looking to collaborate on **Open Source projects**
 <br/>
-🤔 I’m looking for help with **Summer 2023 internships**
+🤔 I’m looking for help with **2024 Full time Opportunities as Software Engineer**
 <br/>
 💬 Ask me about **Backend Engineering, APIs, OOP concepts, MVC, Design principles, 
 astronomy, rock and metal etc.**
